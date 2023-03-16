@@ -7,7 +7,7 @@ Use the work day scheduler to help keep your day tracked. Put in different activ
 N/A
 
 ## Usage Info
-N/A
+Live link: https://haileycarlson.github.io/work-day-scheduler/
 
 ## Contribution
 N/A
